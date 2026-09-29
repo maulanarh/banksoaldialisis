@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="id"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bank Soal CBT Dialisis</title>
+<style>
+:root{--bg:#f3f7f8;--card:#fff;--ink:#12303a;--mut:#5b7480;--pri:#0b6e8a;--ok:#1b7f4b;--no:#b3261e;--ln:#d3e0e5;--fl:#b9770e;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#0e1a1f;--card:#16262d;--ink:#e3eef2;--mut:#93aab4;--pri:#4cc0de;--ok:#5bd38f;--no:#ff8a80;--ln:#2a3f48;--fl:#f0b44c}}
+:root[data-theme=dark]{--bg:#0e1a1f;--card:#16262d;--ink:#e3eef2;--mut:#93aab4;--pri:#4cc0de;--ok:#5bd38f;--no:#ff8a80;--ln:#2a3f48;--fl:#f0b44c}
+*{box-sizing:border-box}html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Georgia,"Times New Roman",serif}
+main{max-width:760px;margin:0 auto;padding:16px}
+h1{font:700 1.5rem/1.2 system-ui,sans-serif;margin:8px 0}h2,h3{font-family:system-ui,sans-serif}
+.card{background:var(--card);border:1px solid var(--ln);border-radius:10px;padding:16px;margin:12px 0}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding:8px 0;display:flex;justify-content:space-between;align-items:center;font:600 .95rem system-ui,sans-serif;z-index:2}
+button,select{font:600 .95rem system-ui,sans-serif;border-radius:8px;border:1px solid var(--pri);background:var(--card);color:var(--pri);padding:9px 14px;cursor:pointer}
+button.p{background:var(--pri);color:var(--bg)}button:focus-visible,label:focus-within{outline:3px solid var(--fl);outline-offset:2px}
+.opt{display:flex;gap:10px;align-items:flex-start;padding:10px 12px;border:1px solid var(--ln);border-radius:8px;margin:8px 0;cursor:pointer}
+.opt.sel{border-color:var(--pri);background:color-mix(in srgb,var(--pri) 12%,transparent)}
+.opt.ok{border-color:var(--ok);background:color-mix(in srgb,var(--ok) 14%,transparent)}.opt.no{border-color:var(--no);background:color-mix(in srgb,var(--no) 14%,transparent)}
+.tag{font:600 .75rem system-ui,sans-serif;color:var(--mut)}
+.vig{border-left:4px solid var(--pri);padding-left:12px;margin:8px 0}
+.grid{display:flex;flex-wrap:wrap;gap:6px}.grid button{width:38px;padding:6px 0}.grid .a{background:var(--pri);color:var(--bg)}.grid .f{border-color:var(--fl);border-width:2px}.grid .c{outline:2px solid var(--ink)}
+.big{font:700 3rem/1 system-ui,sans-serif;color:var(--pri)}.ex{background:color-mix(in srgb,var(--pri) 8%,transparent);border-radius:8px;padding:10px 12px;margin-top:8px;font-size:.95rem}
+textarea{width:100%;min-height:110px;font:12px monospace;background:var(--bg);color:var(--ink);border:1px solid var(--ln);border-radius:8px}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:8px 0}small{color:var(--mut)}
+</style></head><body><main id="app"></main>
+<script>
+const $=s=>document.querySelector(s),esc=t=>String(t).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const shuf=a=>{a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]]}return a};
+const ld=k=>{try{return JSON.parse(localStorage.getItem(k)||"[]")}catch(e){return[]}},sv=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}};
+let Q=[],ans=[],fl=[],cur=0,left=0,tm=null,opt={n:10,v:0,t:1,k:""};
+let X=[],okj=null;const bank=()=>X;
+function home(){clearInterval(tm);const b=bank(),h=ld("hs").slice(-5).reverse(),cats=[...new Set(b.map(x=>x.k||"Umum"))].sort();
+$("#app").innerHTML=`<h1>Bank Soal CBT Dialisis</h1>${okj===false?`<p class="card"><b>soal.json belum terbaca.</b> Buka lewat alamat GitHub Pages dan pastikan soal.json satu folder dengan index.html.</p>`:""}<small>Latihan uji kompetensi perawat dialisis. ${b.length} soal di bank, ${b.filter(x=>x.v).length} vignet.</small>
+<div class="card"><h3>Atur latihan</h3><div class="row"><label>Jumlah soal <select id="n"><option>10</option><option>20</option><option value="0">Semua</option></select></label>
+</div><div class="row"><label>Paket topik <select id="k"><option value="">Semua topik</option>${cats.map(c=>`<option value="${esc(c)}" ${opt.k===c?"selected":""}>${esc(c)} (${b.filter(x=>(x.k||"Umum")===c).length})</option>`).join("")}</select></label></div><div class="row"><label>Jenis <select id="v"><option value="0">Vignet + konsep</option><option value="1">Vignet saja</option></select></label>
+<label><input type="checkbox" id="t" checked> Pakai timer</label></div><button class="p" id="go">Mulai latihan</button></div>
+${h.length?`<div class="card"><h3>Riwayat terakhir</h3>${h.map(x=>`<div>${esc(x.d)}: <b>${x.s}%</b> (${x.c}/${x.n})</div>`).join("")}</div>`:""}
+<small>Pembahasan disusun dari pedoman yang dicantumkan; selalu sesuaikan dengan SPO institusi dan instruksi dokter. Skor kelulusan 70% bersifat indikatif.</small>`;
+$("#go").onclick=()=>{opt={n:+$("#n").value||0,v:+$("#v").value,t:$("#t").checked,k:$("#k").value};start()};
+}
+function start(){let p=bank().filter(x=>(!opt.v||x.v)&&(!opt.k||(x.k||"Umum")===opt.k));if(!p.length)return;p=shuf(p);if(opt.n)p=p.slice(0,opt.n);
+Q=p.map(x=>{const o=shuf(x.o.map((t,i)=>({t,c:i===x.a})));return{...x,o}});ans=Q.map(()=>-1);fl=Q.map(()=>0);cur=0;left=Math.round(Q.length*1.2*60);
+clearInterval(tm);if(opt.t)tm=setInterval(()=>{left--;const e=$("#tm");if(e)e.textContent=fmt(left);if(left<=0)finish()},1000);show()}
+const fmt=s=>Math.floor(s/60)+":"+String(s%60).padStart(2,"0");
+function show(){const q=Q[cur];
+$("#app").innerHTML=`<div class="bar"><span>Soal ${cur+1}/${Q.length}</span><span>${opt.t?"Sisa <b id=tm>"+fmt(left)+"</b>":""}</span><button id="fin" class="p">Selesai</button></div>
+<div class="card"><div class="tag">${esc(q.k||"Umum")}${q.v?" | Vignet klinis":""}</div><div class="${q.v?"vig":""}"><p>${esc(q.q)}</p></div>
+${q.o.map((o,i)=>`<label class="opt ${ans[cur]===i?"sel":""}"><input type="radio" name="r" ${ans[cur]===i?"checked":""} data-i="${i}"><span>${esc(o.t)}</span></label>`).join("")}
+<div class="row"><button id="pv">Sebelumnya</button><button id="fg">${fl[cur]?"Lepas tanda":"Tandai ragu"}</button><button id="nx">Berikutnya</button></div></div>
+<div class="card grid">${Q.map((_,i)=>`<button data-g="${i}" class="${ans[i]>=0?"a":""} ${fl[i]?"f":""} ${i===cur?"c":""}">${i+1}</button>`).join("")}</div>`;
+document.querySelectorAll("[name=r]").forEach(r=>r.onchange=()=>{ans[cur]=+r.dataset.i;show()});
+document.querySelectorAll("[data-g]").forEach(b=>b.onclick=()=>{cur=+b.dataset.g;show()});
+$("#pv").onclick=()=>{if(cur>0){cur--;show()}};$("#nx").onclick=()=>{if(cur<Q.length-1){cur++;show()}};
+$("#fg").onclick=()=>{fl[cur]^=1;show()};
+$("#fin").onclick=()=>{const u=ans.filter(x=>x<0).length;if(!u||confirm(u+" soal belum dijawab. Akhiri latihan?"))finish()}}
+function finish(){clearInterval(tm);const c=Q.filter((q,i)=>ans[i]>=0&&q.o[ans[i]].c).length,s=Math.round(c/Q.length*100);
+sv("hs",ld("hs").concat({d:new Date().toLocaleDateString("id-ID"),s,c,n:Q.length}).slice(-30));
+$("#app").innerHTML=`<h1>Hasil latihan</h1><div class="card"><div class="big">${s}%</div><p>${c} benar dari ${Q.length} soal. ${ans.filter(x=>x<0).length} tidak dijawab.<br><b>${s>=70?"Di atas batas 70%. Pertahankan.":"Di bawah batas 70%. Pelajari pembahasan lalu ulangi."}</b></p>
+<div class="row"><button class="p" id="rv">Kunci jawaban dan pembahasan</button><button id="ag">Latihan baru</button></div></div>`;
+$("#rv").onclick=review;$("#ag").onclick=home}
+function review(){$("#app").innerHTML=`<div class="bar"><span>Pembahasan</span><button id="hm">Beranda</button></div>`+Q.map((q,i)=>{const ok=ans[i]>=0&&q.o[ans[i]].c;
+return`<div class="card"><div class="tag">${i+1}. ${esc(q.k||"Umum")}${q.v?" | Vignet":""} | <b style="color:var(${ok?"--ok":"--no"})">${ans[i]<0?"Tidak dijawab":ok?"Benar":"Salah"}</b></div><div class="${q.v?"vig":""}"><p>${esc(q.q)}</p></div>
+${q.o.map((o,j)=>`<div class="opt ${o.c?"ok":j===ans[i]?"no":""}"><span>${o.c?"Kunci: ":j===ans[i]?"Jawaban Anda: ":""}${esc(o.t)}</span></div>`).join("")}
+<div class="ex"><b>Pembahasan.</b> ${esc(q.e)}<br><small>Sumber: ${esc(q.s||"-")}</small></div></div>`}).join("");$("#hm").onclick=home}
+home();
+fetch("soal.json",{cache:"no-store"}).then(r=>r.json()).then(j=>{if(!Array.isArray(j))throw 0;X=j;okj=true;home()}).catch(()=>{okj=false;home()});
+</script></body></html>
