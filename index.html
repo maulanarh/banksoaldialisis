@@ -40,7 +40,7 @@ ${h.length?`<div class="card"><h3>Riwayat terakhir</h3>${h.map(x=>`<div>${esc(x.
 $("#go").onclick=()=>{opt={n:+$("#n").value||0,v:+$("#v").value,t:$("#t").checked,k:$("#k").value};start()};
 }
 function start(){let p=bank().filter(x=>(!opt.v||x.v)&&(!opt.k||(x.k||"Umum")===opt.k));if(!p.length)return;p=shuf(p);if(opt.n)p=p.slice(0,opt.n);
-Q=p.map(x=>{const o=shuf(x.o.map((t,i)=>({t,c:i===x.a})));return{...x,o}});ans=Q.map(()=>-1);fl=Q.map(()=>0);cur=0;left=Math.round(Q.length*1.2*60);
+Q=p.map(x=>{const o=shuf(x.o.map((t,i)=>({t,c:i===x.a})));return{...x,o}});ans=Q.map(()=>-1);fl=Q.map(()=>0);cur=0;left=Q.length*60;
 clearInterval(tm);if(opt.t)tm=setInterval(()=>{left--;const e=$("#tm");if(e)e.textContent=fmt(left);if(left<=0)finish()},1000);show()}
 const fmt=s=>Math.floor(s/60)+":"+String(s%60).padStart(2,"0");
 function show(){const q=Q[cur];
