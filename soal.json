@@ -4433,5 +4433,980 @@
 "a": 2,
 "e": "KDIGO 2012 menyarankan kehati-hatian besar (jika perlu) pada pasien dengan riwayat stroke atau keganasan aktif karena ESA meningkatkan risiko stroke (uji TREAT) dan komplikasi trombotik. Target Hb tidak boleh sengaja melampaui 11,5 g/dL, dan dosis ESA diatur serendah mungkin untuk menghindari transfusi.",
 "s": "KDIGO Clinical Practice Guideline for Anemia in CKD. Kidney Int Suppl 2012;2:279-335"
+},
+{
+"k": "Anemia & CKD-MBD",
+"q": "Uji EVOLVE menguji cinacalcet versus plasebo pada pasien HD dengan hiperparatiroidisme sekunder. Hasil analisis utama (intention-to-treat) untuk luaran gabungan kematian dan kejadian kardiovaskular adalah",
+"o": [
+"Menurun bermakna hanya pada pasien yang kadar PTH-nya turun di bawah 150 pg/mL",
+"Meningkat bermakna akibat hipokalsemia dan aritmia pada kelompok yang mendapat cinacalcet",
+"Menurun bermakna sekitar separuhnya pada seluruh pasien tanpa memandang usia dan komorbiditas",
+"Tidak berbeda bermakna, meski analisis yang disesuaikan menunjukkan kecenderungan manfaat"
+],
+"a": 3,
+"e": "EVOLVE (n=3.883) tidak menemukan penurunan bermakna pada luaran gabungan (kematian, infark miokard, angina tidak stabil, gagal jantung, kejadian vaskular perifer) pada analisis ITT (HR sekitar 0,93; interval kepercayaan mencakup 1). Analisis sekunder yang disesuaikan menunjukkan kecenderungan manfaat. Hipokalsemia, mual, dan muntah lebih sering pada kelompok cinacalcet.",
+"s": "Chertow GM et al. EVOLVE Trial Investigators. N Engl J Med 2012;367:2482-2494"
+},
+{
+"k": "Anemia & CKD-MBD",
+"q": "Uji PIVOTAL membandingkan strategi besi IV proaktif dosis tinggi dengan strategi reaktif dosis rendah pada pasien HD yang mendapat ESA. Hasilnya, strategi proaktif",
+"o": [
+"Tidak lebih buruk untuk luaran kardiovaskular gabungan dan memerlukan dosis ESA lebih rendah",
+"Tidak mengubah kebutuhan ESA maupun luaran kardiovaskular dibanding strategi reaktif",
+"Menurunkan kebutuhan ESA tetapi meningkatkan kematian kardiovaskular secara bermakna",
+"Meningkatkan infeksi berat secara bermakna sehingga besi IV dosis tinggi tidak boleh dipakai"
+],
+"a": 0,
+"e": "PIVOTAL (n=2.141) menunjukkan besi sukrosa IV proaktif (400 mg per bulan kecuali ferritin >700 ng/mL atau TSAT >40%) non-inferior terhadap strategi reaktif untuk luaran gabungan kematian, infark miokard, stroke, dan rawat inap gagal jantung, dengan dosis ESA median lebih rendah dan tanpa peningkatan infeksi.",
+"s": "Macdougall IC et al. PIVOTAL Investigators. N Engl J Med 2019;380:447-458"
+},
+{
+"k": "Anemia & CKD-MBD",
+"q": "Pada uji TREAT (PGK non-dialisis dengan DM tipe 2), darbepoetin dengan target Hb sekitar 13 g/dL dibanding plasebo menunjukkan",
+"o": [
+"Penurunan kebutuhan transfusi tanpa pengaruh pada risiko stroke maupun trombosis vena",
+"Penurunan kematian kardiovaskular bermakna dengan risiko stroke yang sama dengan plasebo",
+"Penurunan progresi ke gagal ginjal tahap akhir secara bermakna tanpa efek samping serius",
+"Tidak menurunkan kematian atau kejadian kardiovaskular, tetapi stroke sekitar dua kali lipat"
+],
+"a": 3,
+"e": "TREAT (n=4.038) tidak menemukan manfaat pada luaran gabungan kematian/kejadian kardiovaskular maupun gagal ginjal tahap akhir, sementara stroke meningkat (HR sekitar 1,9). Hasil ini mendasari anjuran KDIGO 2012 agar target Hb tidak sengaja melebihi 11,5 g/dL dan ESA dosis serendah mungkin.",
+"s": "Pfeffer MA et al. TREAT Investigators. N Engl J Med 2009;361:2019-2032"
+},
+{
+"k": "Anemia & CKD-MBD",
+"q": "Daprodustat, inhibitor HIF prolil hidroksilase oral yang menstabilkan HIF dan meningkatkan eritropoetin endogen, dibanding ESA pada uji ASCEND-D (pasien dialisis) terbukti",
+"o": [
+"Non-inferior terhadap ESA untuk respons Hb dan luaran kardiovaskular mayor",
+"Superior terhadap ESA dalam menurunkan kejadian kardiovaskular mayor sekitar 40%",
+"Setara ESA tetapi mewajibkan transfusi darah rutin tiap bulan selama terapi",
+"Inferior terhadap ESA sehingga hanya dipakai bila pasien menolak suntikan"
+],
+"a": 0,
+"e": "ASCEND-D (n=2.964) menunjukkan daprodustat non-inferior terhadap ESA pada dialisis untuk perubahan Hb dan untuk MACE (HR sekitar 0,93). Obat oral ini bekerja dengan menstabilkan HIF sehingga eritropoetin endogen naik dan besi lebih tersedia. Perhatian khusus: risiko trombosis dan keganasan masih dipantau.",
+"s": "Singh AK et al. ASCEND-D Investigators. N Engl J Med 2021;385:2325-2335"
+},
+{
+"k": "Terapi pengganti ginjal lain",
+"q": "Pada uji RENAL (AKI kritis dengan CVVHDF), dosis efluen 40 mL/kgBB/jam dibanding 25 mL/kgBB/jam menghasilkan mortalitas 90 hari yang",
+"o": [
+"Lebih tinggi bermakna pada dosis 40 akibat hipotensi dan hipofosfatemia berat",
+"Lebih rendah bermakna pada dosis 40 sehingga dosis tinggi dijadikan standar baru",
+"Sama (sekitar 44,7% pada kedua kelompok) sehingga dosis 20-25 mL/kgBB/jam sudah cukup",
+"Lebih rendah pada dosis 25 hanya pada pasien dengan sepsis berat dan syok"
+],
+"a": 2,
+"e": "RENAL (n=1.508) tidak menemukan perbedaan mortalitas 90 hari (44,7% pada kedua kelompok), sehingga dosis efluen tinggi tidak memberi manfaat tambahan. Dosis yang dianjurkan KDIGO 2012 adalah 20-25 mL/kgBB/jam yang benar-benar diterima pasien.",
+"s": "RENAL Replacement Therapy Study Investigators. N Engl J Med 2009;361:1627-1638; KDIGO AKI 2012"
+},
+{
+"k": "Antikoagulasi",
+"q": "Uji RICH membandingkan sitrat regional dengan heparin sistemik pada CRRT pasien kritis. Hasil utamanya adalah sitrat",
+"o": [
+"Tidak memengaruhi umur filter tetapi menghilangkan risiko perdarahan sepenuhnya",
+"Memperpendek umur filter karena kalsium harus diganti terus-menerus",
+"Menurunkan mortalitas 90 hari secara bermakna dibanding heparin sistemik",
+"Memperpanjang umur filter dibanding heparin (sekitar 47 vs 26 jam)"
+],
+"a": 3,
+"e": "RICH (n=638) menunjukkan sitrat regional memperpanjang umur filter (median sekitar 47 vs 26 jam) dibanding heparin, tanpa perbedaan mortalitas yang bermakna. Kalsium ionisasi sistemik, kalsium total/ionisasi rasio, dan status asam-basa tetap perlu dipantau (risiko hipokalsemia, alkalosis metabolik, atau akumulasi sitrat).",
+"s": "Zarbock A et al. RICH Investigators. JAMA 2020;324:1629-1639; KDIGO AKI 2012"
+},
+{
+"k": "Farmakologi dan obat pada dialisis",
+"q": "Pencegahan nefropati akibat kontras pada pasien berisiko tinggi menurut KDIGO 2012 adalah",
+"o": [
+"Furosemid IV sebelum prosedur agar terjadi diuresis paksa dan kontras cepat terbuang",
+"Hemodialisis profilaksis segera setelah pemberian kontras untuk membuang kontras dari darah",
+"Ekspansi volume IV dengan NaCl 0,9% atau bikarbonat isotonik, kontras dosis minimal",
+"Pembatasan cairan total selama 24 jam sebelum dan sesudah prosedur pemberian kontras"
+],
+"a": 2,
+"e": "KDIGO 2012 menyarankan ekspansi volume IV isotonik (NaCl 0,9% atau natrium bikarbonat) serta kontras iso- atau hipo-osmolar dengan volume sekecil mungkin, dan menghentikan sementara obat nefrotoksik. KDIGO tidak menyarankan HD atau hemofiltrasi profilaksis untuk mengeluarkan kontras.",
+"s": "KDIGO Clinical Practice Guideline for Acute Kidney Injury. Kidney Int Suppl 2012;2:1-138"
+},
+{
+"k": "Hemodialisis: prinsip dan adekuasi",
+"q": "Pada uji MPO, penggunaan dializer high-flux dibanding low-flux paling bermanfaat bagi kelompok",
+"o": [
+"Pasien anak di bawah 12 tahun yang baru memulai HD dengan kateter vena sentral",
+"Seluruh pasien tanpa memandang albumin, dengan mortalitas turun hingga separuhnya",
+"Pasien dengan albumin serum 4 g/dL atau kurang, dan pasien diabetes",
+"Pasien dengan albumin serum di atas 4 g/dL dan fungsi ginjal residu yang baik"
+],
+"a": 2,
+"e": "MPO (n=738, pasien HD insiden) tidak menemukan perbedaan kesintasan pada seluruh populasi, tetapi analisis subgrup yang telah ditetapkan menunjukkan manfaat high-flux pada pasien dengan albumin serum 4 g/dL atau kurang dan pada pasien diabetes. Hasil ini mendukung pemilihan membran high-flux pada pasien berisiko.",
+"s": "Locatelli F et al. MPO Study Group. J Am Soc Nephrol 2009;20:645-654"
+},
+{
+"k": "Komplikasi intradialisis",
+"q": "Uji MyTEMP (84 unit HD; dialisat didinginkan secara personal sekitar 0,5-0,9 C di bawah suhu tubuh pasien) menunjukkan bahwa dibanding suhu standar 36,5 C, dialisat lebih dingin",
+"o": [
+"Menurunkan kejadian kardiovaskular mayor sekitar 30% sehingga dianjurkan untuk semua pasien",
+"Meningkatkan kematian kardiovaskular secara bermakna sehingga tidak boleh lagi dipakai",
+"Tidak menurunkan kematian kardiovaskular atau rawat inap karena kejadian kardiovaskular mayor",
+"Menghilangkan hipotensi intradialisis pada seluruh pasien tanpa efek samping apa pun"
+],
+"a": 2,
+"e": "MyTEMP (cluster-randomized, sekitar 15.400 pasien) membandingkan dialisat dingin personal (rata-rata 35,8 C) dengan suhu standar (36,4 C). Luaran gabungan kematian kardiovaskular atau rawat inap karena infark, stroke, atau gagal jantung tidak berbeda bermakna (sekitar 21,4% vs 22,4%). Dialisat dingin tidak lagi dianjurkan sebagai kebijakan seluruh unit, tetapi tetap dapat dipakai individual pada hipotensi intradialisis berulang.",
+"s": "Garg AX et al. MyTEMP Writing Committee. Lancet 2022;400:1693-1703"
+},
+{
+"k": "Farmakologi dan obat pada dialisis",
+"q": "Menurut KDIGO Lipid 2013, pasien dewasa yang sudah menjalani dialisis dan belum memakai statin sebaiknya",
+"o": [
+"Memulai statin hanya jika LDL di atas 70 mg/dL pada pemeriksaan pertama",
+"Tidak memulai statin secara rutin, tetapi melanjutkannya bila sudah dipakai sebelum dialisis",
+"Menghentikan statin yang sudah dipakai begitu dialisis dimulai karena tidak berguna",
+"Segera memulai statin dosis tinggi pada seluruh pasien karena risiko kardiovaskular tinggi"
+],
+"a": 1,
+"e": "Uji 4D (atorvastatin pada HD diabetik) dan AURORA (rosuvastatin pada HD) tidak menurunkan luaran kardiovaskular utama, dan subgrup dialisis pada SHARP tidak bermakna. KDIGO Lipid 2013 menyarankan statin tidak dimulai pada pasien dialisis, tetapi dilanjutkan bila sudah dipakai saat dialisis dimulai.",
+"s": "KDIGO Clinical Practice Guideline for Lipid Management in CKD. Kidney Int Suppl 2013;3:259-305"
+},
+{
+"k": "Farmakologi dan obat pada dialisis",
+"q": "Difelikefalin IV, agonis reseptor kappa-opioid perifer, diuji pada KALM-1 untuk pasien HD dengan pruritus sedang-berat. Cara pemberian dan hasil utamanya adalah",
+"o": [
+"Salep topikal tiga kali sehari; gatal berkurang hanya pada kulit yang dioleskan salep tersebut",
+"Tablet oral harian pada pagi hari; seluruh pasien bebas gatal sepenuhnya pada minggu ke-12 terapi",
+"Bolus IV sebelum HD sekali sebulan; tidak berbeda dengan plasebo pada skor gatal minggu ke-12",
+"Bolus IV pasca-HD tiga kali seminggu; lebih banyak pasien mengalami penurunan gatal 3 poin atau lebih"
+],
+"a": 3,
+"e": "KALM-1 (n=378) memberikan difelikefalin 0,5 mcg/kgBB IV pada akhir sesi HD, tiga kali seminggu selama 12 minggu. Lebih banyak pasien mencapai penurunan skor Worst Itch NRS 3 poin atau lebih (sekitar 52% dibanding plasebo yang lebih rendah). Efek samping yang lebih sering: diare, pusing, dan mual. Obat ini tidak melewati sawar darah-otak secara bermakna.",
+"s": "Fishbane S et al. KALM-1 Investigators. N Engl J Med 2020;382:222-232"
+},
+{
+"k": "Psikososial dan edukasi",
+"q": "Uji ASCEND membandingkan sertraline dengan terapi perilaku kognitif (CBT) pada pasien HD yang depresi. Setelah 12 minggu, hasilnya",
+"o": [
+"Kedua terapi tidak memperbaiki gejala depresi dibanding keadaan awal pada pasien HD",
+"Kedua terapi menurunkan gejala depresi; sertraline sedikit lebih baik dengan lebih banyak efek samping",
+"CBT jauh lebih baik daripada sertraline dan tidak menimbulkan efek samping sama sekali pada pasien",
+"Sertraline memperbaiki gejala hanya bila dimulai dengan dosis 200 mg sejak hari pertama"
+],
+"a": 1,
+"e": "ASCEND (n=120 pada fase terapi) memberi sertraline harian atau CBT individual 10 sesi (dilakukan saat HD) selama 12 minggu. Skor depresi membaik pada keduanya; sertraline sedikit lebih baik (selisih QIDS-C sekitar -1,8) namun efek samping seperti mual dan pusing lebih sering. Pemilihan terapi sebaiknya mempertimbangkan preferensi dan ketersediaan.",
+"s": "Mehrotra R et al. Ann Intern Med 2019;170:369-379"
+},
+{
+"k": "Dialisis peritoneal",
+"q": "Uji ADEMEX membandingkan dosis PD standar (4 x 2 L per hari) dengan dosis yang ditingkatkan hingga klirens kreatinin 60 L/minggu/1,73 m2. Hasil utamanya adalah",
+"o": [
+"Kesintasan tidak berbeda bermakna; menaikkan dosis solut kecil tidak memperbaiki kesintasan",
+"Kesintasan membaik hanya pada pasien dengan urin sisa lebih dari 1 L per hari",
+"Dosis standar lebih unggul karena dosis tinggi menyebabkan malnutrisi berat pada semua pasien",
+"Dosis ditingkatkan menurunkan mortalitas sekitar 50% pada seluruh pasien PD"
+],
+"a": 0,
+"e": "ADEMEX (n=965) tidak menemukan perbedaan kesintasan antara dosis standar dan dosis klirens tinggi. Analisis lanjutan menekankan pentingnya fungsi ginjal residu terhadap kesintasan. Karena itu target ISPD tidak menaikkan dosis semata, melainkan mempertimbangkan gejala, volume, dan fungsi ginjal residu.",
+"s": "Paniagua R et al. ADEMEX Study Group. J Am Soc Nephrol 2002;13:1307-1320"
+},
+{
+"k": "Dialisis peritoneal",
+"q": "Uji balANZ membandingkan cairan PD pH netral dengan produk degradasi glukosa (GDP) rendah dengan cairan konvensional. Hasil sekundernya yang bermakna adalah",
+"o": [
+"Tidak ada perbedaan apa pun pada seluruh luaran sehingga cairan konvensional lebih hemat",
+"Peritonitis lebih jarang dan anuria timbul lebih lambat pada cairan biokompatibel",
+"Peritonitis lebih sering karena pH netral mendukung pertumbuhan kuman di peritoneum",
+"Fungsi ginjal residu lebih cepat hilang sehingga cairan biokompatibel tidak dipakai"
+],
+"a": 1,
+"e": "balANZ (n=185 pasien PD insiden) tidak menunjukkan perbedaan pada luaran primer (laju penurunan fungsi ginjal residu), tetapi cairan biokompatibel menunda anuria dan menurunkan angka peritonitis. Karena itu cairan pH netral low-GDP umum dipertimbangkan, terutama pada pasien dengan fungsi ginjal residu.",
+"s": "Johnson DW et al. balANZ Trial Investigators. J Am Soc Nephrol 2012;23:1097-1107"
+},
+{
+"k": "Dialisis peritoneal",
+"q": "Antibiotik empiris intraperitoneal untuk peritonitis PD menurut ISPD 2022 harus mencakup",
+"o": [
+"Gram positif dan Gram negatif (mis. vankomisin atau sefazolin plus seftazidim atau sefepim)",
+"Hanya jamur, dengan flukonazol profilaksis yang diberikan pada semua pasien PD tanpa kecuali",
+"Hanya bakteri anaerob dengan metronidazol oral yang diberikan selama dua minggu penuh",
+"Hanya bakteri Gram positif karena Gram negatif jarang menyebabkan peritonitis pada pasien PD"
+],
+"a": 0,
+"e": "ISPD 2022 menyarankan regimen empiris yang mencakup Gram positif (vankomisin atau sefalosporin generasi pertama) dan Gram negatif (seftazidim, sefepim, atau aminoglikosida), disesuaikan dengan pola resistensi unit setempat dan segera disesuaikan dengan hasil kultur.",
+"s": "Li PK et al. ISPD Guidelines for PD-Related Infections: 2022 Update. Perit Dial Int 2022;42:110-153"
+},
+{
+"k": "Pencegahan infeksi",
+"q": "Menurut KDIGO 2022, pasien HD dengan infeksi HCV kronis sebaiknya diobati dengan",
+"o": [
+"Interferon pegilasi plus ribavirin sebagai terapi pilihan pertama pada pasien dialisis",
+"Antivirus kerja langsung (DAA) karena aman dan efektif pada semua tingkat eGFR",
+"Ribavirin dosis tinggi tunggal selama 48 minggu sambil memantau hemoglobin",
+"Tidak diobati sampai transplantasi karena DAA dikontraindikasikan pada dialisis"
+],
+"a": 1,
+"e": "KDIGO 2022 merekomendasikan terapi DAA bagi pasien PGK dengan HCV, termasuk dialisis; regimen modern (mis. glecaprevir/pibrentasvir atau sofosbuvir/velpatasvir) dapat dipakai pada semua tingkat eGFR. Interferon dan ribavirin tidak lagi dipilih karena efek samping hematologis.",
+"s": "KDIGO 2022 Clinical Practice Guideline for the Prevention, Diagnosis, Evaluation, and Treatment of Hepatitis C in CKD. Kidney Int 2022;102(6S):S129-S205"
+},
+{
+"k": "Pencegahan infeksi",
+"q": "Jadwal vaksin hepatitis B Engerix-B untuk pasien HD dewasa menurut CDC adalah",
+"o": [
+"20 mcg pada bulan 0, 1, dan 6 seperti populasi umum",
+"40 mcg (2 x 20 mcg) pada bulan 0, 1, 2, dan 6",
+"40 mcg dosis tunggal dengan booster tiap lima tahun",
+"10 mcg dosis tunggal yang diulang setiap tahun"
+],
+"a": 1,
+"e": "Pasien HD membutuhkan dosis lebih tinggi karena respons imun lebih rendah: Engerix-B 40 mcg (2 x 20 mcg) pada bulan 0, 1, 2, 6, atau Recombivax HB formulasi dialisis 40 mcg pada bulan 0, 1, 6. Anti-HBs dinilai tiap tahun dan booster diberikan bila kadar <10 mIU/mL.",
+"s": "Schillie S et al. CDC. MMWR Recomm Rep 2018;67(1):1-31; CDC MMWR 2001;50(RR-5)"
+},
+{
+"k": "Pencegahan infeksi",
+"q": "Salah satu intervensi inti CDC untuk mencegah infeksi aliran darah pada pasien HD dengan kateter adalah",
+"o": [
+"Memakai sarung tangan yang sama untuk beberapa pasien bila tidak tampak kotor",
+"Menggosok hub kateter dengan antiseptik sesuai (mis. klorheksidin-alkohol) sebelum diakses",
+"Mengganti dressing kateter setiap hari dengan air steril saja tanpa antiseptik apa pun",
+"Membuka hub kateter di luar sesi HD untuk memberikan obat rutin agar lebih praktis"
+],
+"a": 1,
+"e": "CDC Core Interventions mencakup surveilans dan umpan balik, observasi kebersihan tangan dan perawatan kateter, edukasi staf dan pasien, mengurangi pemakaian kateter, antiseptik klorheksidin pada exit site, salep antimikroba, serta menggosok hub sebelum diakses.",
+"s": "CDC. Core Interventions for Dialysis Bloodstream Infection (BSI) Prevention (cdc.gov/dialysis-safety)"
+},
+{
+"k": "Akses vaskular",
+"q": "Konsep 'ESKD Life-Plan' dalam KDOQI Vascular Access 2019 menekankan",
+"o": [
+"Rencana akses individual: akses tepat untuk pasien tepat pada waktu dan alasan yang tepat",
+"Penundaan seluruh perencanaan akses sampai pasien benar-benar memulai dialisis reguler",
+"Pemasangan kateter tunneled sebagai akses pertama pada semua pasien yang baru memulai HD",
+"Pembuatan fistula radiosefalika pada semua pasien tanpa memandang usia dan harapan hidup"
+],
+"a": 0,
+"e": "KDOQI 2019 beralih dari 'fistula first' ke pendekatan berpusat pada pasien: perencanaan akses mengikuti tujuan hidup, umur, komorbiditas, dan modalitas pilihan. Targetnya akses yang tepat, untuk pasien yang tepat, pada waktu yang tepat, dengan alasan yang tepat.",
+"s": "Lok CE et al. KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update. Am J Kidney Dis 2020;75(4 Suppl 2):S1-S164"
+},
+{
+"k": "Akses vaskular",
+"q": "Menurut aturan '6' dari KDOQI, fistula AV umumnya dianggap matang bila memenuhi kriteria",
+"o": [
+"Aliran 1.200 mL/menit atau lebih, diameter 12 mm, kedalaman 12 mm atau kurang, sekitar 12 minggu",
+"Aliran 300 mL/menit atau lebih, diameter 3 mm, kedalaman 3 mm atau kurang, sekitar 3 minggu",
+"Aliran 600 mL/menit atau lebih, diameter 6 mm atau lebih, kedalaman 6 mm atau kurang, sekitar 6 minggu",
+"Aliran 600 mL/menit atau lebih, diameter 2 mm, kedalaman 15 mm atau kurang, sekitar 6 bulan"
+],
+"a": 2,
+"e": "Aturan '6' (KDOQI 2006): aliran darah >=600 mL/menit, diameter vena >=6 mm, kedalaman <=6 mm dari permukaan kulit, yang diharapkan dicapai sekitar 6 minggu setelah pembuatan. KDOQI 2019 menekankan penilaian maturasi yang lebih klinis (pemeriksaan fisik, USG bila perlu) daripada angka kaku.",
+"s": "KDOQI Clinical Practice Guidelines for Vascular Access: 2006 Update. Am J Kidney Dis 2006;48(Suppl 1):S176-S247; KDOQI 2019"
+},
+{
+"k": "Terapi pengganti ginjal lain",
+"q": "Menurut KDIGO 2020 tentang evaluasi kandidat transplantasi ginjal, pasien PGK yang layak sebaiknya dirujuk untuk evaluasi",
+"o": [
+"Dini, sekitar 6-12 bulan sebelum dialisis diperkirakan; transplantasi preemptif lebih disukai",
+"Hanya bila donor hidup sudah tersedia sebelum evaluasi transplantasi resmi dimulai di pusat",
+"Hanya setelah menjalani dialisis minimal dua tahun tanpa komplikasi apa pun selama terapi",
+"Hanya bila berusia di bawah 50 tahun dan tidak menderita diabetes melitus maupun hipertensi"
+],
+"a": 0,
+"e": "KDIGO 2020 menyarankan rujukan evaluasi transplantasi dini (sekitar 6-12 bulan sebelum perkiraan dialisis) agar transplantasi preemptif dimungkinkan, dan merujuk segera setiap pasien dialisis yang stabil secara medis. Transplantasi preemptif dan lama dialisis yang singkat berkaitan dengan hasil graft yang lebih baik.",
+"s": "Chadban SJ et al. KDIGO Clinical Practice Guideline on the Evaluation and Management of Candidates for Kidney Transplantation. Transplantation 2020;104(4S1):S11-S103"
+},
+{
+"k": "Populasi khusus",
+"q": "Studi Murtagh dkk. pada pasien PGK stadium 5 usia 75 tahun atau lebih menunjukkan bahwa dialisis dibanding terapi konservatif",
+"o": [
+"Selalu meningkatkan kesintasan lebih dari lima tahun pada seluruh pasien lansia tanpa terkecuali",
+"Memperbaiki kualitas hidup pada semua pasien lansia tanpa memandang beban komorbiditas yang ada",
+"Selalu memperpendek kesintasan pada seluruh pasien lansia tanpa terkecuali dari kelompok mana pun",
+"Tidak memberi keuntungan kesintasan bermakna pada komorbiditas berat, terutama jantung iskemik"
+],
+"a": 3,
+"e": "Studi kohort ini melaporkan keuntungan kesintasan dialisis hilang pada lansia (>=75 tahun) dengan komorbiditas tinggi, terutama penyakit jantung iskemik. Temuan ini mendukung pengambilan keputusan bersama dan opsi manajemen konservatif ginjal, bukan keputusan otomatis memulai dialisis.",
+"s": "Murtagh FE et al. Nephrol Dial Transplant 2007;22:1955-1962"
+},
+{
+"k": "Populasi khusus",
+"q": "Pada wanita hamil dengan PGK tahap akhir, studi Hladunewich dkk. mengaitkan dialisis intensif (lebih dari 36 jam per minggu) dengan",
+"o": [
+"Tidak ada perbedaan luaran dibanding dialisis 3 x 4 jam per minggu",
+"Risiko pre-eklampsia lebih tinggi tanpa perbaikan luaran janin",
+"Angka keguguran lebih tinggi dan usia gestasi saat lahir lebih pendek",
+"Angka kelahiran hidup dan usia gestasi saat lahir yang lebih baik"
+],
+"a": 3,
+"e": "Studi kohort Kanada-AS ini membandingkan wanita hamil dengan HD intensif (>36 jam per minggu) dan HD konvensional: kelahiran hidup lebih sering dan usia gestasi lebih tua pada HD intensif. Hasil ini bersifat observasional, tetapi mendukung intensifikasi dialisis pada kehamilan.",
+"s": "Hladunewich MA et al. J Am Soc Nephrol 2014;25:1103-1109"
+},
+{
+"k": "Konsep dasar PGK",
+"q": "Menurut KDIGO 2024, risiko gagal ginjal 5 tahun (berdasarkan KFRE) berapa yang dapat dipakai sebagai pertimbangan rujukan ke nefrolog?",
+"o": [
+"Sekitar 80% dalam 5 tahun",
+"Sekitar 25% dalam 5 tahun",
+"Sekitar 50% dalam 5 tahun",
+"Sekitar 3-5% dalam 5 tahun"
+],
+"a": 3,
+"e": "KDIGO 2024 merekomendasikan memakai persamaan risiko tervalidasi (mis. KFRE) pada PGK G3-G5. Risiko gagal ginjal 5 tahun sekitar 3-5% dapat menjadi pertimbangan rujukan ke nefrolog, selain kriteria eGFR/ACR dan pertimbangan klinis lainnya.",
+"s": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD. Kidney Int 2024;105(4S):S117-S314"
+},
+{
+"k": "Konsep dasar PGK",
+"q": "Menurut KDIGO 2024, risiko gagal ginjal 2 tahun lebih dari 40% (KFRE) dapat dipakai untuk menentukan",
+"o": [
+"Memulai dialisis segera tanpa menunggu gejala atau penilaian klinis lain pada pasien tersebut",
+"Menghentikan pemantauan rutin karena perjalanan penyakit dianggap sudah pasti dan tidak berubah",
+"Edukasi modalitas dan persiapan terapi pengganti ginjal (akses vaskular, rujukan transplantasi)",
+"Menunda seluruh persiapan sampai eGFR pasien turun di bawah 5 mL/menit/1,73 m2 nanti"
+],
+"a": 2,
+"e": "KDIGO 2024: risiko gagal ginjal 2 tahun >10% dapat dipakai untuk menentukan waktu perawatan multidisiplin, dan >40% untuk edukasi modalitas serta persiapan terapi pengganti ginjal (perencanaan akses vaskular atau rujukan transplantasi), di samping kriteria eGFR dan pertimbangan klinis.",
+"s": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD. Kidney Int 2024;105(4S):S117-S314"
+},
+{
+"k": "Terapi pengganti ginjal lain",
+"q": "Kondisi yang merupakan kontraindikasi dialisis peritoneal adalah",
+"o": [
+"Riwayat operasi abdomen minor tanpa komplikasi di masa lalu",
+"Diabetes melitus dengan fungsi ginjal residu yang masih cukup baik",
+"Gagal jantung kongestif stabil yang membutuhkan UF lambat dan kontinu",
+"Perlekatan abdomen luas atau hilangnya fungsi membran peritoneum"
+],
+"a": 3,
+"e": "Kontraindikasi PD mencakup hilangnya fungsi peritoneum, perlekatan abdomen luas, hernia atau kebocoran dinding abdomen yang tidak dapat diperbaiki, serta ketidakmampuan melakukan PD sendiri tanpa pendamping. Gagal jantung justru sering diuntungkan oleh UF lambat dan kontinu pada PD, dan diabetes bukan kontraindikasi.",
+"s": "Daugirdas JT, Blake PG, Ing TS. Handbook of Dialysis, 5th ed. Wolters Kluwer; 2015"
+},
+{
+"k": "Asuhan keperawatan HD",
+"q": "Tn. W, BB kering 70 kg, BB pra-HD 72,4 kg. Perkiraan asupan makanan/minuman dan bilasan selama sesi 0,7 kg, durasi HD 4 jam. UF rate (UFR) yang direncanakan dan penilaiannya adalah",
+"o": [
+"Sekitar 11 mL/kgBB/jam, di bawah batas 13 sehingga relatif aman",
+"Sekitar 6 mL/kgBB/jam, terlalu rendah sehingga UF boleh dinaikkan lagi",
+"Sekitar 22 mL/kgBB/jam, sangat tinggi sehingga HD tidak boleh dilakukan",
+"Sekitar 14 mL/kgBB/jam, di atas batas 13 sehingga durasi perlu ditambah"
+],
+"a": 0,
+"e": "Target UF = (72,4 - 70,0) + 0,7 = 3,1 L. UFR = 3.100 mL / (70 kg x 4 jam) = sekitar 11,1 mL/kgBB/jam. UFR >13 mL/kgBB/jam dikaitkan dengan mortalitas dan morbiditas kardiovaskular lebih tinggi, sehingga UFR diusahakan di bawah ambang tersebut, mis. dengan menambah durasi atau frekuensi.",
+"s": "Flythe JE et al. Rapid fluid removal during dialysis is associated with cardiovascular morbidity and mortality. Kidney Int 2011;79:250-257"
+},
+{
+"k": "Antikoagulasi",
+"q": "Pada HD rutin dengan heparin tidak terfraksi, heparin kontinu umumnya dihentikan",
+"o": [
+"Dua jam setelah sesi berakhir agar bekuan sisa tidak terbentuk di sirkuit",
+"Sekitar 30-60 menit sebelum sesi berakhir agar perdarahan pasca-HD berkurang",
+"Tepat saat sesi dimulai agar sirkuit tidak mengalami pembekuan sama sekali",
+"Bersamaan dengan pengembalian darah pada saat terminasi HD di akhir sesi"
+],
+"a": 1,
+"e": "Heparin biasanya dihentikan sekitar 30-60 menit sebelum akhir sesi (mengikuti SPO unit dan waktu paruh heparin) supaya waktu perdarahan di lokasi tusukan lebih pendek. Dosis dan waktu penghentian disesuaikan dengan risiko perdarahan pasien dan perintah dokter.",
+"s": "Daugirdas JT, Blake PG, Ing TS. Handbook of Dialysis, 5th ed. Wolters Kluwer; 2015"
+},
+{
+"k": "Mesin dan peralatan HD",
+"q": "Selama HD, tekanan vena turun mendadak dari sekitar +150 menjadi +20 mmHg. Penyebab yang paling perlu diwaspadai adalah",
+"o": [
+"Selang vena tertekuk (kinking) sehingga aliran balik terhambat ke pasien",
+"Jarum vena menempel dinding vena sehingga aliran balik menjadi tersumbat",
+"Jarum vena terlepas atau sambungan sirkuit lepas sehingga darah keluar",
+"Bekuan di perangkap udara vena yang menghambat aliran balik ke pasien"
+],
+"a": 2,
+"e": "Peningkatan tekanan vena umumnya disebabkan sumbatan di sisi vena (bekuan, kinking, jarum menempel dinding vena). Penurunan mendadak menandakan hilangnya hambatan akibat jarum vena terlepas atau sambungan putus, berisiko perdarahan masif. Tindakan: hentikan pompa darah, klem line, tekan lokasi, nilai kehilangan darah, dan panggil bantuan.",
+"s": "Daugirdas JT, Blake PG, Ing TS. Handbook of Dialysis, 5th ed. Wolters Kluwer; 2015"
+},
+{
+"k": "Asuhan keperawatan HD",
+"q": "Pada telaah preskripsi, perawat menemukan Qb 400 mL/menit padahal pasien memakai kateter jugularis tunneled yang selama ini hanya mencapai Qb 250 mL/menit. Sikap yang tepat adalah",
+"o": [
+"Menurunkan Qb ke 250 sendiri tanpa mencatat atau melaporkan perubahan",
+"Mengikuti preskripsi dan memaksa Qb 400 dengan melonggarkan batas alarm tekanan arteri",
+"Menukar jalur arteri dan vena lalu menaikkan Qb sampai 400",
+"Mengonfirmasi ke dokter dan meminta revisi sesuai kemampuan akses"
+],
+"a": 3,
+"e": "Perawat menelaah preskripsi (durasi, Qb, dialisat, UF, antikoagulan) terhadap kondisi pasien dan akses, lalu mengonfirmasi ketidaksesuaian ke dokter serta mendokumentasikannya. Memaksa Qb melebihi kemampuan akses menyebabkan tekanan arteri sangat negatif, hemolisis, dan resirkulasi (terutama bila jalur dibalik), sehingga dosis dialisis justru turun.",
+"s": "KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update. Am J Kidney Dis 2020;75(4 Suppl 2):S1-S164"
+},
+{
+"k": "Mesin dan peralatan HD",
+"q": "Rentang konduktivitas dialisat yang normal pada mesin HD bikarbonat umumnya sekitar",
+"o": [
+"13,5-14,5 mS/cm",
+"5,5-6,5 mS/cm",
+"25,0-28,0 mS/cm",
+"18,0-20,0 mS/cm"
+],
+"a": 0,
+"e": "Konduktivitas mencerminkan konsentrasi elektrolit (terutama natrium) dialisat; nilai normal sekitar 13,5-14,5 mS/cm untuk natrium sekitar 140 mmol/L. Alarm konduktivitas menandakan kesalahan proporsi konsentrat atau air, dan mesin akan bypass dialisat. Penyebab harus dicari sebelum HD dilanjutkan.",
+"s": "ISO 23500-4:2019 (Preparation and quality management of fluids for haemodialysis); Handbook of Dialysis, 5th ed."
+},
+{
+"k": "Asuhan keperawatan HD",
+"q": "Langkah terminasi HD yang benar pada saat pengembalian darah adalah",
+"o": [
+"Darah dikembalikan dengan udara bertekanan sampai seluruh sirkuit benar-benar kosong",
+"UF dinolkan, Qb diturunkan ke sekitar 100 mL/menit, darah dikembalikan dengan NaCl 0,9%",
+"Qb dinaikkan ke 400 mL/menit dengan UF tetap berjalan agar darah cepat kembali",
+"Pompa dimatikan dan line diklem, lalu jarum dicabut tanpa mengembalikan darah"
+],
+"a": 1,
+"e": "Pada terminasi, UF dihentikan, Qb diturunkan (sekitar 100 mL/menit) dan darah dikembalikan dengan NaCl 0,9% hingga sirkuit jernih tanpa volume berlebih, lalu line diklem dan jarum dicabut dengan hemostasis yang tepat. Pengembalian dengan udara tidak dianjurkan karena risiko emboli udara.",
+"s": "Daugirdas JT, Blake PG, Ing TS. Handbook of Dialysis, 5th ed. Wolters Kluwer; 2015"
+},
+{
+"k": "Komplikasi intradialisis",
+"q": "Pada pasien HD, waktu pemulihan (recovery time) yang panjang setelah sesi dialisis berkaitan dengan",
+"o": [
+"Mortalitas lebih rendah karena dosis dialisis yang diterima pasien lebih besar",
+"Tidak berhubungan dengan depresi maupun mortalitas pasien yang menjalani HD",
+"Kualitas hidup lebih rendah, depresi lebih sering, dan mortalitas lebih tinggi",
+"Kualitas hidup lebih baik karena sesi HD dianggap lebih efektif oleh pasien"
+],
+"a": 2,
+"e": "Studi DOPPS melaporkan bahwa waktu pemulihan yang panjang setelah HD berkaitan dengan kualitas hidup lebih rendah, depresi lebih sering, dan mortalitas lebih tinggi. Karena itu keluhan lelah pasca-HD perlu ditanyakan dan dikaji penyebabnya (UF cepat, hipotensi, anemia, dan sebagainya).",
+"s": "Rayner HC et al. Recovery time, quality of life, and mortality in hemodialysis patients: the DOPPS. Am J Kidney Dis 2014;64:86-94"
+},
+{
+"k": "Hemodialisis: prinsip dan adekuasi",
+"q": "Target standard Kt/V (stdKt/V) mingguan menurut KDOQI 2015 untuk HD tiga kali seminggu adalah",
+"o": [
+"Target 4,0 volume per minggu dengan minimal 3,5",
+"Target 1,2 volume per minggu dengan minimal 1,0",
+"Target 2,3 volume per minggu dengan minimal 2,1",
+"Target 1,7 volume per minggu dengan minimal 1,2"
+],
+"a": 2,
+"e": "KDOQI 2015 menyatakan target stdKt/V sekitar 2,3 volume per minggu dengan dosis minimal terkirim 2,1 untuk pasien dengan fungsi ginjal residu rendah. Pada HD tiga kali seminggu, target ini setara dengan spKt/V sekitar 1,4 per sesi. Angka 1,7 per minggu adalah target total Kt/V pada PD.",
+"s": "Daugirdas JT et al. KDOQI Clinical Practice Guideline for Hemodialysis Adequacy: 2015 Update. Am J Kidney Dis 2015;66:884-930"
+},
+{
+"k": "Terapi pengganti ginjal lain",
+"q": "Uji RESCUE membandingkan SLED (12 jam, sistem batch) dengan CVVH predilusional 24 jam pada AKI di ICU. Hasil utamanya adalah",
+"o": [
+"Stabilitas hemodinamik jauh lebih buruk pada SLED sehingga tidak dianjurkan lagi",
+"Mortalitas 90 hari lebih rendah bermakna pada SLED; biaya dan beban kerja serupa",
+"Mortalitas 90 hari lebih rendah bermakna pada CVVH; biaya SLED lebih tinggi",
+"Mortalitas 90 hari serupa; SLED mengurangi waktu kerja perawat dan biaya"
+],
+"a": 3,
+"e": "RESCUE (n=232) tidak menemukan perbedaan mortalitas 90 hari (SLED sekitar 49,6% vs CVVH 55,6%), dengan stabilitas hemodinamik serupa. SLED mengurangi waktu keperawatan untuk RRT secara bermakna sehingga biayanya lebih rendah. Karena itu SLEDD sering dipakai di ICU yang memiliki mesin HD dan air RO.",
+"s": "Schwenger V et al. Crit Care 2012;16:R140"
+},
+{
+"k": "Farmakologi dan obat pada dialisis",
+"q": "Pasien AKI di ICU menjalani SLEDD 8 jam dan mendapat antibiotik IV yang dibersihkan oleh dialisis. Prinsip pemberian yang tepat adalah",
+"o": [
+"Antibiotik dihentikan selama SLEDD lalu dilanjutkan tiga hari kemudian setelah itu",
+"Dosis disesuaikan klirens SLEDD dan waktunya dikoordinasikan dengan farmasi klinis",
+"Dosis memakai ukuran gagal ginjal biasa tanpa memperhitungkan klirens oleh SLEDD",
+"Dosis digandakan sebelum SLEDD tanpa pemantauan kadar obat dalam darah pasien"
+],
+"a": 1,
+"e": "SLEDD membersihkan obat lebih banyak daripada gagal ginjal tanpa terapi, namun kurang dibanding HD konvensional. Dosis dan waktu pemberian (mis. sesudah atau saat akhir sesi, atau dosis tambahan) perlu disesuaikan dengan klirens dan, bila ada, kadar obat, bersama farmasi klinis agar tidak terjadi kekurangan dosis pada sepsis.",
+"s": "Heintz BH et al. Pharmacotherapy 2009;29:562-577; Marshall MR et al. Kidney Int 2001;60:777-785"
+},
+{
+"k": "Terapi pengganti ginjal lain",
+"q": "Uji UNLOAD membandingkan ultrafiltrasi veno-vena dini dengan diuretik IV pada gagal jantung dekompensasi dengan overload cairan. Hasil utamanya adalah",
+"o": [
+"Penurunan berat badan lebih kecil pada UF tetapi fungsi ginjal jauh lebih baik",
+"Kematian 90 hari turun sekitar separuh pada kelompok yang mendapat UF dini",
+"Tidak ada perbedaan berat badan maupun rawat inap ulang di antara kedua kelompok",
+"Penurunan BB 48 jam lebih besar dan rawat inap ulang 90 hari lebih sedikit pada UF"
+],
+"a": 3,
+"e": "UNLOAD (n=200) menunjukkan UF menurunkan berat badan lebih banyak dalam 48 jam (sekitar 5 vs 3 kg) dan mengurangi rawat inap ulang gagal jantung 90 hari. Hasil ini mendukung UF terisolasi untuk overload cairan refrakter diuretik, dengan UFR yang disesuaikan agar tekanan darah stabil.",
+"s": "Costanzo MR et al. UNLOAD Trial Investigators. J Am Coll Cardiol 2007;49:675-683"
+},
+{
+"k": "Terapi pengganti ginjal lain",
+"q": "Pada UF terisolasi yang diperpanjang, tanda bahwa laju UF melebihi kecepatan plasma refilling adalah",
+"o": [
+"Tekanan darah turun disertai hematokrit atau Hb yang naik cepat",
+"Nadi melambat disertai berat badan pasien yang justru naik",
+"Tekanan darah naik disertai hematokrit atau Hb yang turun cepat",
+"Tekanan vena turun disertai kadar natrium serum yang naik"
+],
+"a": 0,
+"e": "Bila UFR melebihi laju plasma refilling, volume intravaskular menurun: tekanan darah turun dan hematokrit/Hb naik (hemokonsentrasi), yang dapat dipantau dengan blood volume monitor. Tindakan: kurangi UFR, beri bolus NaCl 0,9% sesuai protokol bila hipotensi, dan lapor dokter.",
+"s": "Daugirdas JT, Blake PG, Ing TS. Handbook of Dialysis, 5th ed. Wolters Kluwer; 2015"
+},
+{
+"k": "Hemodialisis: prinsip dan adekuasi",
+"q": "Uji acak Culleton dkk. membandingkan HD nokturnal (sekitar 8 jam, 6 malam/minggu) dengan HD konvensional. Hasil primernya adalah",
+"o": [
+"Massa ventrikel kiri berkurang lebih besar; tekanan darah dan fosfat membaik",
+"Tidak ada perubahan massa ventrikel kiri maupun tekanan darah di kedua kelompok",
+"Massa ventrikel kiri bertambah dan kadar fosfat justru meningkat pada kelompok nokturnal",
+"Mortalitas turun sekitar separuh pada pengamatan 12 bulan pada kelompok nokturnal"
+],
+"a": 0,
+"e": "Culleton dkk. (n=52, 6 bulan) melaporkan HD nokturnal menurunkan massa ventrikel kiri lebih besar dibanding HD konvensional, dengan tekanan darah dan fosfat yang lebih baik. Uji FHN Nocturnal yang lebih besar kemudian tidak menunjukkan manfaat bermakna pada luaran ko-primer dan menunjukkan lebih banyak masalah akses.",
+"s": "Culleton BF et al. JAMA 2007;298:1291-1299; Rocco MV et al. FHN Nocturnal Trial. Kidney Int 2011;80:1080-1091"
+},
+{
+"k": "Komplikasi intradialisis",
+"q": "Pada pasien HD tiga kali seminggu, risiko kematian dan rawat inap karena kejadian kardiovaskular paling tinggi terjadi",
+"o": [
+"Merata sepanjang minggu tanpa perbedaan antar hari dalam seminggu",
+"Pada hari sesudah interval interdialisis panjang (setelah akhir pekan)",
+"Pada hari tengah minggu setelah interval interdialisis pendek saja",
+"Hanya pada hari setelah interval interdialisis terpendek dalam seminggu"
+],
+"a": 1,
+"e": "Foley dkk. melaporkan peningkatan kematian dan rawat inap kardiovaskular pada hari setelah interval interdialisis panjang. Perawat perlu lebih waspada pada sesi setelah akhir pekan: kenaikan BB interdialitik, kalium, dan tekanan darah dikaji, serta UFR dijaga tidak berlebihan.",
+"s": "Foley RN et al. N Engl J Med 2011;365:1099-1107"
+},
+{
+"k": "Anemia & CKD-MBD",
+"q": "Pasien HD 12 tahun mengeluh nyeri bahu dan kesemutan tangan pada malam hari; sindrom terowongan karpal bilateral. Penyebab yang paling mungkin adalah",
+"o": [
+"Hipokalsemia kronis akibat dialisat kalsium rendah",
+"Defisiensi vitamin B12 akibat kehilangan lewat dialisis",
+"Neuropati diabetik perifer akibat hiperglikemia kronis",
+"Amiloidosis terkait dialisis (deposit beta-2 mikroglobulin)"
+],
+"a": 3,
+"e": "Beta-2 mikroglobulin tidak terbuang baik oleh membran low-flux sehingga menumpuk sebagai amiloid pada sendi dan jaringan lunak setelah bertahun-tahun HD (sindrom terowongan karpal, artropati bahu). Risiko dikurangi dengan membran high-flux/HDF, air ultrapure, dan transplantasi.",
+"s": "Gejyo F et al. Biochem Biophys Res Commun 1985;129:701-706"
+},
+{
+"k": "Manajemen cairan dan nutrisi",
+"q": "Diagnosis protein-energy wasting pada penyakit ginjal menurut kriteria ISRNM memerlukan",
+"o": [
+"Seluruh empat kategori harus terpenuhi bersamaan pada pasien yang sama",
+"Cukup IMT di bawah 25 kg/m2 tanpa melihat kimia serum maupun asupan diet",
+"Tiga dari empat kategori (kimia serum, massa tubuh, massa otot, asupan diet)",
+"Cukup albumin serum di bawah 3,8 g/dL tanpa kriteria kategori lain"
+],
+"a": 2,
+"e": "ISRNM (Fouque 2008) mensyaratkan minimal tiga dari empat kategori, dengan satu kriteria atau lebih tiap kategori: kimia serum (albumin, prealbumin, kolesterol), massa tubuh (IMT rendah, penurunan BB), massa otot, dan asupan diet. Kriteria ini lebih spesifik daripada albumin saja.",
+"s": "Fouque D et al. Kidney Int 2008;73:391-398"
+},
+{
+"k": "Dialisis peritoneal",
+"q": "Pada PET standar (dekstrosa 2,5%, 2 L, dwell 4 jam), rasio D/P kreatinin 4 jam sebesar 0,85 menunjukkan",
+"o": [
+"Transporter rata-rata rendah; preskripsi standar CAPD tidak perlu diubah sama sekali",
+"Transporter rendah; dwell panjang paling efektif sehingga pertukaran perlu dikurangi",
+"Transporter tinggi; UF buruk pada dwell panjang, dwell pendek atau icodextrin dipertimbangkan",
+"Hasil tidak valid karena PET harus selalu dilakukan dengan dwell 8 jam penuh"
+],
+"a": 2,
+"e": "Klasifikasi Twardowski berdasarkan D/P kreatinin 4 jam: tinggi >0,81, tinggi-rata-rata 0,65-0,81, rendah-rata-rata 0,50-0,64, rendah <0,50. Pada transporter tinggi, glukosa cepat diserap sehingga UF buruk pada dwell panjang; strategi: dwell pendek (APD), icodextrin pada dwell panjang.",
+"s": "Twardowski ZJ et al. Perit Dial Bull 1987;7:138-147; ISPD Prescription Recommendations 2020"
+},
+{
+"k": "Dialisis peritoneal",
+"q": "Pasien PD anuria, V = 36 L. D/P urea 24 jam 0,9 dengan volume drain total 8 L per hari. Kt/V peritoneal mingguan dan penilaiannya adalah",
+"o": [
+"Sekitar 1,4; di bawah target 1,7 sehingga preskripsi perlu ditinjau",
+"Sekitar 5,0; sangat tinggi sehingga jumlah pertukaran dapat dikurangi",
+"Sekitar 0,2; sudah melebihi target mingguan sehingga dosis dikurangi",
+"Sekitar 2,2; melebihi target sehingga volume pertukaran diturunkan"
+],
+"a": 0,
+"e": "Kt/V harian = (D/P urea x volume drain) / V = (0,9 x 8) / 36 = 0,2; mingguan = 0,2 x 7 = 1,4. Karena anuria dan target total Kt/V sekitar 1,7 per minggu, dosis perlu ditinjau, mis. menambah volume atau jumlah pertukaran atau mengganti ke APD, dengan memperhatikan toleransi pasien.",
+"s": "Brown EA et al. ISPD Practice Recommendations: Prescribing High-Quality Goal-Directed PD. Perit Dial Int 2020;40:244-253"
+},
+{
+"k": "Dialisis peritoneal",
+"q": "Wanita CAPD mengeluhkan efluen merah muda pada hari pertama menstruasi, tanpa nyeri perut maupun demam, efluen kemudian jernih. Sikap yang tepat adalah",
+"o": [
+"Ganti seluruh cairan dengan dekstrosa 4,25% dan perpanjang waktu dwell selama beberapa hari",
+"Hentikan CAPD secara permanen dan segera cabut kateter peritoneal hari itu juga",
+"Observasi, lanjutkan CAPD, lapor, dan beri heparin intraperitoneal bila ada fibrin atau bekuan",
+"Anggap peritonitis lalu langsung beri antibiotik intraperitoneal dosis penuh tanpa evaluasi"
+],
+"a": 2,
+"e": "Hemoperitoneum ringan saat menstruasi atau ovulasi umumnya jinak dan sembuh sendiri. Perawat mengobservasi warna efluen, tanda peritonitis, dan kestabilan hemodinamik, melaporkan, serta menambah heparin (mis. 500 IU/L) bila ada fibrin atau bekuan. Hemoperitoneum persisten atau disertai nyeri perlu dievaluasi dokter.",
+"s": "Daugirdas JT, Blake PG, Ing TS. Handbook of Dialysis, 5th ed. Wolters Kluwer; 2015; ISPD Catheter Recommendations"
+},
+{
+"k": "Dialisis peritoneal",
+"q": "Dibanding sistem spike konvensional, sistem disconnect Y-set/twin-bag untuk CAPD terbukti",
+"o": [
+"Meningkatkan peritonitis karena jumlah sambungan pada sistem ini lebih banyak",
+"Tidak memengaruhi angka peritonitis tetapi selalu lebih murah bagi pasien",
+"Hanya bermanfaat bagi pasien yang memakai APD dengan mesin siklus otomatis",
+"Menurunkan angka peritonitis secara bermakna dibanding sistem spike konvensional"
+],
+"a": 3,
+"e": "Sistem disconnect Y-set/twin-bag (dengan flush sebelum fill) mengurangi kontaminasi saat sambungan sehingga menurunkan peritonitis, dan direkomendasikan ISPD. Pelatihan teknik aseptik dan evaluasi berkala tetap menjadi kunci pencegahan.",
+"s": "Li PK et al. ISPD Peritonitis Recommendations: 2016 Update. Perit Dial Int 2016;36:481-508"
+},
+{
+"k": "Akses vaskular",
+"q": "Posisi ujung kateter HD tunneled yang ideal adalah",
+"o": [
+"Di vena azigos agar tidak terpengaruh gerakan napas pasien selama HD",
+"Pada sambungan SVC-atrium kanan, dikonfirmasi dengan foto toraks",
+"Di ventrikel kanan agar aliran darah selalu maksimal sepanjang sesi HD",
+"Di vena subklavia kiri sejajar dengan klavikula agar mudah difiksasi"
+],
+"a": 1,
+"e": "Ujung kateter tunneled idealnya berada di sambungan SVC-atrium kanan atau atrium kanan agar aliran adekuat dan risiko trombosis lebih rendah. Posisi dikonfirmasi dengan foto toraks sebelum kateter dipakai, dan komplikasi (pneumotoraks, malposisi, aritmia) dinilai.",
+"s": "KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update. Am J Kidney Dis 2020;75(4 Suppl 2):S1-S164"
+},
+{
+"k": "Akses vaskular",
+"q": "Graft AV (AVG) dengan bahan sintetis umumnya boleh mulai dipunksi",
+"o": [
+"Sekitar 2 minggu pasca pemasangan, bila edema hilang dan graft menyatu",
+"Setelah enam bulan dan hanya dengan jarum berukuran terkecil yang tersedia di unit",
+"Sekitar 24 jam setelah pemasangan pada semua jenis graft sintetis tanpa kecuali",
+"Segera setelah pasien keluar dari kamar operasi pada hari pemasangan graft yang sama"
+],
+"a": 0,
+"e": "KDOQI 2019 menyebut graft biasanya baru dipunksi sekitar 2 minggu pasca pemasangan, setelah edema hilang dan graft menyatu dengan jaringan sekitar sehingga perjalanannya teraba. Graft khusus 'early cannulation' dapat dipunksi dalam 72 jam sesuai petunjuk pabrik dan dokter bedah.",
+"s": "KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update. Am J Kidney Dis 2020;75(4 Suppl 2):S1-S164"
+},
+{
+"k": "Reuse dializer",
+"q": "Urutan reprocessing dializer yang benar adalah",
+"o": [
+"Pelabelan, disinfeksi, pembersihan, pembilasan awal, uji kinerja, lalu disimpan tanpa uji residu",
+"Uji kinerja, disinfeksi, pelabelan, pembilasan awal, pembersihan, lalu uji residu sebelum dipakai",
+"Disinfeksi, pembilasan awal, pembersihan, uji kinerja, pelabelan, lalu dipakai langsung tanpa uji residu",
+"Pembilasan awal, pembersihan, uji kinerja (TCV, kebocoran), disinfeksi, pelabelan, uji residu sebelum pakai"
+],
+"a": 3,
+"e": "Reprocessing mengikuti AAMI RD47: pembilasan awal, pembersihan, uji kinerja (TCV dan uji kebocoran), disinfeksi/pengisian disinfektan, pelabelan identitas pasien, dan penyimpanan; sebelum dipakai, label diperiksa, dializer dibilas, dan uji residu disinfektan harus negatif.",
+"s": "ANSI/AAMI RD47: Reprocessing of Hemodialyzers; Handbook of Dialysis, 5th ed."
+},
+{
+"k": "Reuse dializer",
+"q": "Pada dializer membran selulosa, reuse dapat mengurangi reaksi first-use karena",
+"o": [
+"Pori membran menjadi jauh lebih besar setelah dipakai ulang",
+"Lapisan protein pada membran mengurangi aktivasi komplemen",
+"Luas permukaan membran bertambah setiap kali dilakukan reprocessing",
+"Disinfektan dapat menetralkan seluruh antibodi pasien di darah"
+],
+"a": 1,
+"e": "Pada membran selulosa yang kurang biokompatibel, lapisan protein yang terbentuk pada pemakaian pertama mengurangi aktivasi komplemen, sehingga reaksi first-use lebih jarang pada pemakaian ulang. Namun reuse menurunkan TCV dan menambah risiko residu disinfektan, sehingga pengujian ketat tetap diperlukan.",
+"s": "ANSI/AAMI RD47: Reprocessing of Hemodialyzers; Handbook of Dialysis, 5th ed."
+},
+{
+"k": "Komplikasi intradialisis",
+"q": "Pemeriksaan penunjang yang dipakai untuk menilai kekakuan arteri (arterial stiffness) pada pasien HD dengan risiko kardiovaskular adalah",
+"o": [
+"Hemoglobin dan ferritin untuk menilai status anemia",
+"Ekokardiografi untuk menilai fraksi ejeksi saja",
+"Pulse wave velocity (PWV) dan augmentation index",
+"Troponin dan NT-proBNP untuk menilai nekrosis miokard"
+],
+"a": 2,
+"e": "PWV dan augmentation index (Aix) mencerminkan kekakuan arteri, penanda risiko kardiovaskular pada PGK/HD. Ekokardiografi menilai LVH dan EF, sedangkan BNP/NT-proBNP dan troponin menilai beban volume dan cedera miokard. Pemeriksaan ini dikerjakan secara kolaboratif.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Townsend RR et al. Hypertension 2015;66:698-722"
+},
+{
+"k": "Asuhan keperawatan HD",
+"q": "Perawat menuliskan kriteria hasil (SLKI) untuk pasien dengan edema. Rumusan yang sesuai kaidah SMART adalah",
+"o": [
+"Edema pasien berkurang secepat mungkin setelah mendapat tindakan",
+"Pitting edema menurun dari +3 menjadi +1 setelah HD 1 x 5 jam",
+"Kondisi cairan pasien membaik sesuai harapan perawat dan pasien",
+"Pasien merasa lebih nyaman dan tidak lagi mengeluh bengkak"
+],
+"a": 1,
+"e": "SMART: Specific, Measurable, Achievable, Relevant, Time-bound. Rumusan yang benar menyebut indikator spesifik (pitting edema), nilai yang terukur (+3 menjadi +1), dan batas waktu (1 x 5 jam). Rumusan lain terlalu umum, tidak terukur, atau tidak bertenggat waktu.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Tim Pokja SLKI DPP PPNI. Standar Luaran Keperawatan Indonesia, 2019"
+},
+{
+"k": "Asuhan keperawatan HD",
+"q": "Tn. R, HD reguler, BB naik 4 kg antar sesi, edema pitting +3, asites, distensi vena jugularis, RR 26x/menit, dan sesak saat berbaring. Diagnosis keperawatan yang paling tepat adalah",
+"o": [
+"Risiko perdarahan b.d penggunaan antikoagulan selama HD",
+"Hipervolemia b.d kelebihan asupan cairan dan natrium",
+"Defisit nutrisi b.d anoreksia uremik dan pembatasan diet",
+"Risiko ketidakseimbangan elektrolit b.d disfungsi ginjal"
+],
+"a": 1,
+"e": "Edema, asites, distensi JV, kenaikan BB 4 kg, ortopnea, dan RR meningkat adalah batasan karakteristik hipervolemia (SDKI D.0022). Intervensi: manajemen hipervolemia/HD, posisi Fowler, edukasi pembatasan cairan dan garam, pemantauan BB dan I-O.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Tim Pokja SDKI DPP PPNI. Standar Diagnosis Keperawatan Indonesia, 2017"
+},
+{
+"k": "Komplikasi intradialisis",
+"q": "Dasar penggunaan dialisat sejuk (sekitar 35,5 C) pada pasien HD dengan hipotensi intradialisis berulang adalah",
+"o": [
+"Meningkatkan klirens ureum sehingga Kt/V naik secara bermakna selama sesi",
+"Menurunkan hipotensi intradialisis dan menstabilkan tekanan darah",
+"Mencegah seluruh kram otot dengan menaikkan kadar kalsium dalam darah",
+"Menggantikan kebutuhan pembatasan cairan dan garam di antara sesi HD"
+],
+"a": 1,
+"e": "Dialisat sejuk menaikkan resistensi vaskular perifer sehingga hemodinamik lebih stabil dan hipotensi intradialisis berkurang; uji MIDAS juga melaporkan perlindungan miokard. Namun uji MyTEMP tidak menunjukkan penurunan kejadian kardiovaskular mayor bila diterapkan untuk semua pasien, sehingga lebih tepat dipakai individual.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Odudu A et al. Clin J Am Soc Nephrol 2015;10:1408-1417; Garg AX et al. Lancet 2022;400:1693-1703"
+},
+{
+"k": "Elektrolit dan asam-basa",
+"q": "Pada penilaian SLKI keseimbangan elektrolit, kadar kalium serum dikatakan membaik bila berada pada rentang",
+"o": [
+"2,0-3,0 mEq/L",
+"5,5-6,5 mEq/L",
+"6,5-8,0 mEq/L",
+"3,5-5,0 mEq/L"
+],
+"a": 3,
+"e": "Rentang kriteria hasil: Na 135-145 mEq/L, K 3,5-5,0 mEq/L, Cl 98-106 mEq/L, Ca 8,5-10,5 mg/dL. Nilai K di atas 5,5 mEq/L menandakan hiperkalemia, sedangkan di bawah 3,5 mEq/L menandakan hipokalemia.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Tim Pokja SLKI DPP PPNI, 2019 (L.03021 Keseimbangan Elektrolit)"
+},
+{
+"k": "Manajemen cairan dan nutrisi",
+"q": "Edukasi pembatasan natrium pada pasien HD sekitar 2 g natrium per hari. Setara dengan garam dapur kira-kira",
+"o": [
+"2 g (sekitar setengah sendok teh) per hari",
+"5 g (sekitar 1 sendok teh) per hari",
+"10 g (sekitar 2 sendok teh) per hari",
+"15 g (sekitar 3 sendok teh) per hari"
+],
+"a": 1,
+"e": "Garam dapur (NaCl) mengandung sekitar 40% natrium, sehingga 2 g natrium setara sekitar 5 g garam (1 sendok teh). Edukasi mencakup makanan olahan, bumbu instan, dan makanan kemasan yang tinggi natrium, bukan hanya garam yang ditambahkan saat memasak.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; KDOQI Clinical Practice Guideline for Nutrition in CKD: 2020 Update. Am J Kidney Dis 2020;76(3 Suppl 1):S1-S107"
+},
+{
+"k": "Komplikasi intradialisis",
+"q": "Manifestasi hipovolemia berulang akibat UF berlebihan pada pasien HD adalah",
+"o": [
+"Asites, edema anasarka, dan penambahan BB yang sangat cepat",
+"Hipertensi berat dengan hipertrofi ventrikel kiri yang progresif",
+"Edema paru, ortopnea, dan peningkatan JVP yang menetap",
+"Hipotensi intradialisis, kram otot, dan risiko iskemia organ"
+],
+"a": 3,
+"e": "UF berlebihan menurunkan volume intravaskular lebih cepat daripada plasma refilling, menimbulkan hipotensi intradialisis, kram, dan iskemia (otak, jantung). Overload kronik justru menyebabkan edema, hipertensi, LVH, dan gagal jantung.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Daugirdas JT, Blake PG, Ing TS. Handbook of Dialysis, 5th ed. 2015"
+},
+{
+"k": "Anemia & CKD-MBD",
+"q": "Defisiensi besi fungsional pada pasien HD dengan inflamasi kronik terutama disebabkan oleh",
+"o": [
+"Peningkatan hepcidin yang menahan besi di sel penyimpanan",
+"Peningkatan eritropoetin sehingga besi terpakai habis",
+"Penurunan hepcidin yang membuat besi terbuang lewat dialisat",
+"Penurunan ferritin akibat kehilangan besi lewat urin"
+],
+"a": 0,
+"e": "Inflamasi menaikkan hepcidin sehingga absorpsi besi usus dan pelepasan besi dari penyimpanan terhambat. Ferritin bisa normal atau tinggi sementara besi tidak tersedia untuk eritropoesis. Kehilangan darah (akses, laboratorium, dializer) menambah defisiensi absolut.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Ganz T, Nemeth E. Biochim Biophys Acta 2012;1823:1434-1443"
+},
+{
+"k": "Antikoagulasi",
+"q": "Pasien HD mengalami penurunan trombosit akut 5-10 hari setelah mulai heparin. Alat penilaian probabilitas HIT yang dipakai adalah",
+"o": [
+"Skor 4Ts (trombositopenia, waktu, trombosis, penyebab lain)",
+"Skor PHQ-9 untuk menilai gejala depresi pada pasien yang dirawat",
+"Skor SGA untuk menilai status gizi pada pasien yang dirawat",
+"Skor Morse untuk menilai risiko jatuh pada pasien yang dirawat"
+],
+"a": 0,
+"e": "Skor 4Ts menilai Thrombocytopenia, Timing, Thrombosis, oTher causes dan menentukan probabilitas HIT. Bila skor tinggi, heparin (termasuk flush dan lock) dihentikan dan antikoagulan alternatif disiapkan atas instruksi dokter.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Lo GK et al. J Thromb Haemost 2006;4:759-765"
+},
+{
+"k": "Antikoagulasi",
+"q": "Pasien HD mendapat heparin rutin, belum ada perdarahan aktif, tetapi sering memar dan gusi mudah berdarah. Diagnosis keperawatan yang tepat adalah",
+"o": [
+"Perdarahan aktif b.d trauma jaringan akibat penusukan jarum fistula",
+"Risiko perdarahan b.d penggunaan antikoagulan dan efek prosedur HD",
+"Defisit pengetahuan b.d kurang terpapar informasi tentang diet",
+"Risiko infeksi b.d penurunan sistem imun akibat toksin uremia"
+],
+"a": 1,
+"e": "Tanpa perdarahan aktif, diagnosis yang sesuai adalah risiko (D.0012). Intervensi: pantau tanda perdarahan, Hb/Ht, TD dan nadi, penekanan di lokasi tusukan, hindari TD di lengan fistula, kolaborasi penyesuaian dosis heparin.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Tim Pokja SDKI DPP PPNI, 2017"
+},
+{
+"k": "Anemia & CKD-MBD",
+"q": "Gangguan fungsi trombosit pada uremia menimbulkan manifestasi",
+"o": [
+"Peningkatan agregasi trombosit sehingga perdarahan lebih mudah berhenti",
+"Penurunan hemoglobin tanpa adanya kecenderungan perdarahan pada pasien",
+"Trombositosis berat dengan trombosis vena dalam yang berulang kali",
+"Perdarahan mukokutan: epistaksis, memar, dan oozing di lokasi tusukan"
+],
+"a": 3,
+"e": "Toksin uremik mengganggu adhesi dan agregasi trombosit meskipun jumlahnya normal, sehingga terjadi perdarahan mukokutan dan oozing. Dialisis yang adekuat memperbaiki fungsi trombosit; heparin perlu dikurangi pada pasien berisiko.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Boccardo P et al. Semin Thromb Hemost 2004;30:579-589"
+},
+{
+"k": "Komplikasi intradialisis",
+"q": "Mekanisme dialysis disequilibrium syndrome (DDS) pada awal HD adalah",
+"o": [
+"Hipoglikemia berat akibat glukosa dialisat yang terlalu rendah di sirkuit",
+"Peningkatan cepat natrium plasma yang menyebabkan perdarahan intrakranial",
+"Emboli udara kecil yang berpindah ke sirkulasi otak melalui jalur vena",
+"Penurunan cepat urea plasma menimbulkan gradien osmotik dan edema serebri"
+],
+"a": 3,
+"e": "Urea di otak keluar lebih lambat daripada di plasma, sehingga air masuk ke sel otak dan menimbulkan edema serebri (sakit kepala, mual, gelisah, kejang). Pencegahan: awal HD bertahap (durasi pendek, Qb dan Qd rendah), pantau gejala, dan lapor dokter.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Zepeda-Orozco D, Quigley R. Pediatr Nephrol 2012;27:2205-2211"
+},
+{
+"k": "Komplikasi intradialisis",
+"q": "Pasien HD jangka panjang dengan carpal tunnel syndrome akibat amiloid beta-2 mikroglobulin. Intervensi keperawatan awal yang sesuai adalah",
+"o": [
+"Hentikan HD selama dua minggu agar kadar beta-2 mikroglobulin turun",
+"Modifikasi aktivitas dan splint malam; rujuk bedah bila konservatif gagal",
+"Pijat kuat pada pergelangan tangan sebelum dan sesudah setiap sesi HD",
+"Beri kompres panas pada lengan fistula selama sesi HD berlangsung"
+],
+"a": 1,
+"e": "CTS pada amiloidosis terkait dialisis ditandai nyeri malam, parestesia jari radial, serta tanda Phalen dan Tinel positif. Tata laksana konservatif: istirahatkan pergelangan, splint malam, analgesik sesuai instruksi; rujuk untuk evaluasi bedah bila gagal.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Danesh F, Ho LT. Semin Dial 2001;14:80-85"
+},
+{
+"k": "Komplikasi intradialisis",
+"q": "Pada pasien HD dengan restless legs syndrome (RLS), intervensi yang sesuai materi adalah",
+"o": [
+"Edukasi sleep hygiene, aktivitas fisik ringan, dan koreksi defisiensi besi",
+"Batasi seluruh gerakan tungkai dan tirah baring total sepanjang hari",
+"Hentikan suplementasi besi karena memperburuk dorongan menggerakkan tungkai",
+"Anjurkan tidur siang panjang dan kafein malam hari agar tetap terjaga"
+],
+"a": 0,
+"e": "RLS pada HD berkaitan dengan defisiensi besi, uremia, dan gangguan tidur. Intervensi: sleep hygiene, aktivitas fisik ringan, koreksi defisiensi besi, dan kolaborasi terapi farmakologis bila perlu. Tingkat keparahan dinilai dengan IRLS rating scale.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Novak M et al. Semin Nephrol 2015;35:347-358"
+},
+{
+"k": "Psikososial dan edukasi",
+"q": "Instrumen yang sesuai untuk menilai kualitas tidur pada pasien HD adalah",
+"o": [
+"Montreal Cognitive Assessment (MoCA)",
+"Patient Health Questionnaire-9 (PHQ-9)",
+"Pittsburgh Sleep Quality Index (PSQI)",
+"Kidney Disease Quality of Life-36 (KDQOL-36)"
+],
+"a": 2,
+"e": "PSQI menilai kualitas tidur. MoCA menilai fungsi kognitif, PHQ-9 menilai gejala depresi, dan KDQOL-36 menilai kualitas hidup terkait penyakit ginjal. RLS dinilai dengan IRLS rating scale dan nyeri dengan VAS/NRS.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Buysse DJ et al. Psychiatry Res 1989;28:193-213"
+},
+{
+"k": "Manajemen cairan dan nutrisi",
+"q": "Alat skrining cepat (level 1) status gizi pada pasien HD yang disebut dalam materi adalah",
+"o": [
+"Kadar albumin serum tunggal tanpa riwayat diet pasien",
+"Handgrip strength dan pengukuran lingkar lengan atas saja",
+"Malnutrition Inflammation Score (MIS) atau SGA",
+"Bioelectrical impedance analysis (BIA) pada setiap sesi HD"
+],
+"a": 2,
+"e": "Skrining level 1 memakai MIS atau SGA bersama pengkajian keperawatan (riwayat diet 24 jam/FFQ, gejala GI, depresi). Penilaian komprehensif level 2 mencakup antropometri, HGS, biokimia (albumin, prealbumin, CRP, nPCR), dan komposisi tubuh (BIA).",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Kalantar-Zadeh K et al. Am J Kidney Dis 2001;38:1251-1263"
+},
+{
+"k": "Manajemen cairan dan nutrisi",
+"q": "Pasien HD stabil dengan BB kering 60 kg. Menurut materi (energi 30-35 kkal/kgBB/hari dan protein 1,0-1,2 g/kgBB/hari), kebutuhannya adalah",
+"o": [
+"Protein 60-72 g dan energi 1.800-2.100 kkal per hari",
+"Protein 30-36 g dan energi 900-1.200 kkal per hari",
+"Protein 36-48 g dan energi 1.200-1.500 kkal per hari",
+"Protein 100-120 g dan energi 3.000-3.600 kkal per hari"
+],
+"a": 0,
+"e": "Protein = 60 x 1,0-1,2 = 60-72 g/hari; energi = 60 x 30-35 = 1.800-2.100 kkal/hari. KDOQI 2020 menyarankan 25-35 kkal/kgBB/hari sesuai usia, aktivitas, dan status gizi. Kebutuhan protein HD lebih tinggi karena kehilangan asam amino saat dialisis dan katabolisme.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; KDOQI Nutrition in CKD 2020. Am J Kidney Dis 2020;76(3 Suppl 1):S1-S107"
+},
+{
+"k": "Manajemen cairan dan nutrisi",
+"q": "Pasien HD: nafsu makan menurun, mual, makan hanya 3 sendok, BB kering 50 kg (target 55 kg), albumin 3,2 g/dL, IMT 17, skor MIS 8. Diagnosis dan intervensi keperawatan yang tepat adalah",
+"o": [
+"Defisit nutrisi; kebersihan mulut, porsi kecil sering, kolaborasi ahli gizi",
+"Ansietas; ajarkan napas dalam dan relaksasi selama sesi HD berlangsung",
+"Hipervolemia; batasi cairan, posisi Fowler, dan pantau BB harian pasien HD",
+"Risiko perdarahan; tekan lokasi tusukan dan pantau Hb secara berkala pasca-HD"
+],
+"a": 0,
+"e": "Penurunan asupan, mual, IMT rendah, albumin rendah, dan skor MIS tinggi menunjukkan defisit nutrisi (D.0019). Intervensi: manajemen nutrisi (pantau asupan, BB, IMT, albumin), oral hygiene, porsi kecil sering, dan kolaborasi ahli gizi, nefrolog, serta keluarga.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Tim Pokja SDKI/SIKI DPP PPNI, 2017/2019"
+},
+{
+"k": "Anemia & CKD-MBD",
+"q": "Frekuensi pemantauan kalsium/fosfat dan PTH pada pasien HD (CKD G5D) yang disarankan adalah",
+"o": [
+"Ca dan P tiap minggu, PTH tiap hari",
+"Ca dan P tiap 12 bulan, PTH tiap 24 bulan",
+"Ca dan P tiap 1-3 bulan, PTH tiap 3-6 bulan",
+"Ca dan P tiap 6 bulan, PTH hanya bila ada fraktur"
+],
+"a": 2,
+"e": "KDIGO CKD-MBD menyarankan pemeriksaan kalsium dan fosfat tiap 1-3 bulan dan PTH tiap 3-6 bulan pada CKD G5D, lebih sering bila tidak stabil atau terapi diubah. Keputusan memakai tren, bukan satu nilai saja.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; KDIGO 2017 CKD-MBD Guideline Update. Kidney Int Suppl 2017;7:1-59"
+},
+{
+"k": "Manajemen cairan dan nutrisi",
+"q": "Target asupan fosfat dari makanan pada pasien HD dengan hiperfosfatemia umumnya sekitar",
+"o": [
+"100-200 mg per hari",
+"3.000-4.000 mg per hari",
+"800-1.000 mg per hari",
+"2.000-2.500 mg per hari"
+],
+"a": 2,
+"e": "Pembatasan fosfat makanan sekitar 800-1.000 mg/hari (SLKI: asupan fosfat terkontrol kurang dari 1.000 mg/hari), disertai edukasi label pangan dan aditif fosfat serta pengikat fosfat bersama makanan. Dialisis saja tidak cukup membuang fosfat dari asupan tinggi.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; KDOQI 2003 Bone Metabolism and Disease in CKD. Am J Kidney Dis 2003;42(4 Suppl 3):S1-S201; KDOQI Nutrition 2020"
+},
+{
+"k": "Anemia & CKD-MBD",
+"q": "Penekanan PTH yang berlebihan (kelebihan kalsium atau vitamin D aktif) pada pasien HD dapat menyebabkan",
+"o": [
+"Peningkatan PTH reaktif secara otomatis",
+"Perbaikan mineralisasi tulang pada seluruh pasien",
+"Osteitis fibrosa (high-turnover) yang berat",
+"Penyakit tulang adinamik (low-turnover)"
+],
+"a": 3,
+"e": "PTH terlalu rendah menurunkan turnover tulang (penyakit tulang adinamik) dan meningkatkan risiko fraktur serta kalsifikasi vaskular. PTH tinggi menyebabkan osteitis fibrosa (high-turnover). Karena itu target PTH individual berbasis tren, bukan ditekan serendah mungkin.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Moe S et al. Kidney Int 2006;69:1945-1953"
+},
+{
+"k": "Asuhan keperawatan HD",
+"q": "Pasien HD dengan gangguan mineral dan tulang serta kelemahan otot. Menurut skala jatuh Morse yang umum dipakai, skor yang dikategorikan risiko tinggi adalah",
+"o": [
+"Skor 0-24",
+"Skor 25-44",
+"Tidak ada skor; risiko jatuh hanya dinilai dari usia",
+"Skor 45 atau lebih"
+],
+"a": 3,
+"e": "Skor Morse umumnya: 0-24 tanpa risiko, 25-44 risiko rendah, 45 atau lebih risiko tinggi. Luaran SLKI 'risiko jatuh menurun' dalam materi memakai skor Morse di bawah 25. Intervensi pencegahan jatuh: modifikasi lingkungan, alat bantu, pengawasan pasca-HD.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Morse JM et al. Can J Aging 1989;8:366-377"
+},
+{
+"k": "Psikososial dan edukasi",
+"q": "Skrining depresi pada pasien HD memakai PHQ-9. Skor yang umumnya dipakai sebagai batas depresi sedang dan interval ulang skriningnya adalah",
+"o": [
+"Skor 10 atau lebih; diulang tiap 3-6 bulan",
+"Skor 20 atau lebih; diulang tiap 5 tahun",
+"Skor 3 atau lebih; diulang tiap hari",
+"Skor 27; diulang hanya bila pasien meminta"
+],
+"a": 0,
+"e": "PHQ-9 memiliki rentang 0-27; skor >=10 umumnya dipakai sebagai batas depresi sedang. GAD-7 juga memakai batas >=10 untuk ansietas sedang. Skrining diulang tiap 3-6 bulan dan lebih awal bila ada perubahan klinis. Item ideasi bunuh diri harus ditindaklanjuti segera.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Kroenke K et al. J Gen Intern Med 2001;16:606-613"
+},
+{
+"k": "Psikososial dan edukasi",
+"q": "Selama sesi HD, pasien menyatakan 'lebih baik saya mati saja' dan menyebut rencana melukai diri. Tindakan perawat yang tepat adalah",
+"o": [
+"Membiarkan pasien sendiri agar tenang sambil mencatat keluhan di akhir shift",
+"Meminta pasien tidak berpikir negatif lalu melanjutkan sesi HD seperti biasa",
+"Temani pasien, amankan lingkungan, aktifkan protokol keselamatan, rujuk psikiatri",
+"Menganggap itu keluhan biasa dan menunggu skrining ulang tiga bulan lagi"
+],
+"a": 2,
+"e": "Ideasi bunuh diri dengan rencana adalah kegawatan psikiatri (D.0135 Risiko bunuh diri). Pasien tidak ditinggal sendiri, benda berbahaya disingkirkan, dokter dan tim psikiatri dihubungi segera, keluarga dilibatkan, dan semua didokumentasikan. Perawat tidak boleh meremehkan atau menunda tindakan.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; WHO mhGAP Intervention Guide 2.0, 2016"
+},
+{
+"k": "Psikososial dan edukasi",
+"q": "Intervensi psikososial yang dapat diintegrasikan selama sesi HD untuk pasien ansietas, sesuai materi, adalah",
+"o": [
+"Menghindari edukasi tentang HD agar pasien tidak bertambah merasa cemas",
+"Membatasi komunikasi dengan keluarga agar pasien menjadi lebih tenang",
+"Memberi obat penenang rutin tanpa pengkajian maupun kolaborasi dokter",
+"Napas diafragma, relaksasi, mindfulness, atau terapi musik selama sesi"
+],
+"a": 3,
+"e": "Intervensi berbasis bukti selama HD meliputi psikoedukasi, motivational interviewing, relaksasi/napas diafragma, mindfulness, terapi musik, CBT ringkas, dukungan sosial, serta rujukan psikiatri bila gejala sedang-berat. Integrasi saat sesi menghemat waktu pasien.",
+"s": "Widyawati IY. Materi Pelatihan Dialisis 2026: Askep HD dengan Komplikasi Jangka Panjang; Cukor D et al. J Am Soc Nephrol 2014;25:196-206"
 }
 ]
